@@ -1,1 +1,3 @@
-This will be done by the end of August
+Hi I will finalize the first RPA program by the end of Augutst.
+
+I'm editing the readme.txt file now!!
